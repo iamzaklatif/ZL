@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "The Zakariya Latif Method | Official Calendar Calculation Specification"
+description: "The official mathematical formulation and architectural white paper for the ZL Base-20 and ZL Base-10 calendar calculation algorithms."
+plugins:
+  - jekyll-seo-tag
